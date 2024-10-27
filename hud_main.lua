@@ -52,3 +52,8 @@ function DrawTextOnScreen(text, x, y, scale, color)
     AddTextComponentString(text)
     DrawText(x, y)
 end
+
+--[[ 
+Copyright (c) 2024 WolfPack Development
+This software is licensed under the MIT License.
+]]
